@@ -18,20 +18,6 @@
 - สิทธิ์ root หรือ sudo
 - Bash shell
 
-## การติดตั้ง
-
-1. **ดาวน์โหลดสคริปต์**:
-   ```bash
-   wget -O docker-cleanup.sh https://raw.githubusercontent.com/yourusername/yourrepo/main/docker-cleanup.sh
-   chmod +x docker-cleanup.sh
-   ```
-
-2. **หรือคัดลอกไฟล์โดยตรง**:
-   ```bash
-   cp docker-cleanup.sh /usr/local/bin/
-   chmod +x /usr/local/bin/docker-cleanup.sh
-   ```
-
 ## การใช้งาน
 
 ### การใช้งานพื้นฐาน
